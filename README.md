@@ -88,33 +88,6 @@ I am a Software Engineer specializing in end-to-end software development, with a
 
 <a href="https://github.com/dalviruhsikesh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalviruhsikesh&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
 
-##
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/dalviruhsikesh/AuthV5-Toolkit" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dalviruhsikesh&repo=AuthV5-Toolkit&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/dalviruhsikesh/SprintEase" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dalviruhsikesh&repo=SprintEase&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br><br><br><br><br><br>
-<br>
-<br>
-<br>
-<div width="100%" align="center"><a href="https://github.com/dalviruhsikesh/next-digital-marketplace" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dalviruhsikesh&repo=next-digital-marketplace&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/dalviruhsikesh/omniscient" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dalviruhsikesh&repo=omniscient&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br><br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<div width="100%" align="center"><a href="https://github.com/dalviruhsikesh/Intertwine" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dalviruhsikesh&repo=Intertwine&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/dalviruhsikesh/s3mer" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dalviruhsikesh&repo=s3mer&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br><br><br><br><br><br>
-<br>
-<br>
-<br>
-<div width="100%" align="center"><a href="https://github.com/dalviruhsikesh/SpreadIt" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dalviruhsikesh&repo=SpreadIt&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/dalviruhsikesh/booking-manager" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dalviruhsikesh&repo=booking-manager&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br><br>
-<br>
-<br>
-<br>
-<br>
-
-##
 
 #### 🌟 Let's Collaborate!
 
