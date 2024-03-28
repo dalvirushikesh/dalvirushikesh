@@ -15,7 +15,7 @@ I am a Software Engineer specializing in end-to-end software development, with a
 > - 🌍 Based in USA.
 > - 🖥️ Explore my portfolio at https://rushikeshdalvi.onrender.com.
 > - ✉️ Contact me at rushikeshdalvi22@gmail.com
-> - 🚀 Currently engaged in [Cooking something special 🔥](https://#), enhancing user experiences, and utilizing a versatile tech stack adaptable to project requirements.
+> - 🚀 Currently engaged in [Cooking something special 🔥]([https://#](http://www.uncovergem.com)), enhancing user experiences, and utilizing a versatile tech stack adaptable to project requirements.
 > - 🧠 Constantly learning and exploring new technologies to advance my skills.
 > - 🤝 Open to collaborating on open-source projects and innovative applications.
 > - ⚡ Check my repositories to gain insights into my journey and tech stack.
