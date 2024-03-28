@@ -4,7 +4,7 @@
 
 # Hi! I'm Rushikesh Dalvi
 
-## Software Engineer | Full Stack Developer
+## Software Developer | Full Stack Developer
 
 I am a Software Engineer specializing in end-to-end software development, with a primary focus on crafting clean user interfaces and robust, high-performance backend services. Employing a meticulous approach to problem-solving, I consistently strive to deliver resilient and efficient software solutions.
 
