@@ -14,7 +14,7 @@ I am a Software Engineer specializing in end-to-end software development, with a
 
 > - 🌍 Based in Boston, MA, USA.
 > - 🖥️ Explore my portfolio at ([https://portfolio-fullstack-obcp54l8p-dalvirushikeshs-projects.vercel.app/](https://portfolio-fullstack-ko7dpri7z-dalvirushikeshs-projects.vercel.app/))
-> - ✉️ Contact me at rushikeshdalvi1996@gmail.com
+> - ✉️ Contact me at dalvirushikesh96@gmail.com
 > - 🚀 Currently engaged in [Cooking something special 🔥][https://www.uncovergem.com], enhancing user experiences, and utilizing a versatile tech stack adaptable to project requirements.
 > - 🧠 Constantly learning and exploring new technologies to advance my skills.
 > - 🤝 Open to collaborating on open-source projects and innovative applications.
