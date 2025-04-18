@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/bd0cf5d7-5ab0-4ed6-ab4e-0de821396e47)<!-- <div style="background-color:#181824"> -->
-
-
 
 # Hi! I'm Rushikesh Dalvi
 
